@@ -17,9 +17,9 @@ title: Florentyna Leow
 email: furochaneats@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Writer, translator, Japan specialist
-baseurl: "https://piccolo-portfolios.github.io/florentyna-leow" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://piccolo-portfolios.github.io/florentyna-leow" # the base hostname & protocol for your site, e.g. http://example.com
-icon: /assets/images/icon.png
+logo: /assets/images/icon.png
 twitter_username: furochan_eats
 github_username:  
 
