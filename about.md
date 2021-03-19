@@ -5,6 +5,9 @@ title: About
 
 #### HELLO THERE! 
 
+![](/assets/images/flory-leow.jpg)
+_Photo by Rebecka Wolfe_
+
 ([日本語版はこちろへ](https://furochan.wordpress.com/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/)）
 
 I’m a writer and photographer based in Tokyo.  
@@ -57,7 +60,3 @@ I make awful puns, all the time.
 ・Fujifilm XT2 for more cinematic shooting and portraiture. I love this camera.  
 ・Fujifilm 35mm/F1.4 as my main lens.  
 ・Sony NEX-6 for the very rare video occasion, such as [this](https://www.youtube.com/watch?v=fF2X7lU-YUI).
-
-From [Source](https://en.wikipedia.org/wiki/Christopher_Hitchens):
-
->Quote formatting text
