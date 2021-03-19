@@ -9,6 +9,11 @@ layout: default
 {% else %}
   <header class="site-masthead">
     {% include menu.html %}
+    {% if site.icon %}
+        <div class="logo-container">
+          <a class="logo" href="{{ site.baseurl }}{{ site.icon }}"></a>
+        </div>
+        {% endif %}
     {% if site.title %}
       <h1>
         {{ site.title }}
