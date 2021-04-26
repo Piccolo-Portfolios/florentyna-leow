@@ -3,13 +3,13 @@ layout: post
 title: Portfolio
 ---
 
-**Publications**
+#### Publications
 
-I've written [link to Portfolio(link)] for _Guardian Labs_, _Japan Times_, _SBS Food_, _Lucky Peach_, _WILD Magazine_, _Roads & Kingdoms_, and other magazines, newspapers, and websites.
+I've written for _Guardian Labs_, _Japan Times_, _SBS Food_, _Lucky Peach_, _WILD Magazine_, _Roads & Kingdoms_, and other magazines, newspapers, and websites.
 
 I welcome commissions for articles on Japanese cuisine, travel, and culture, but also anything that you think I would be a good fit for.
 
-**Copy/Content/Scripts**
+#### Copy/Content/Scripts
 
 A few things I have done under this broad umbrella:
 
@@ -24,13 +24,14 @@ A few things I have done under this broad umbrella:
 
 Clients include KITO Design Holdings, Yamanashi Prefectural Government, Timeless Tokyo, Walk Japan, Truly Tokyo, Inside Kyoto, Inside Osaka, ST Auto, Japan Journeys, Solo Inc., Boutique Japan, Giovanni Pellone Design, Setouchi DMO, Kuratabi Usuki, Ushibuka Haiya.
 
-**JP-EN Translations & [Transcreations](https://www.translatemedia.com/translation-services/transcreation/)**
+
+#### JP-EN Translations & [Transcreations](https://www.translatemedia.com/translation-services/transcreation/)
 
 I've translated copy, essays and interviews for a number of clients, including the Agency of Cultural Affairs and Theobald Fox Ltd. Subjects I have translated pieces on include: travel, food, Japanese culture, textiles, art, business anthropology, AI, religion, computer science. I particularly enjoy translating interviews and scripts. The nature of translation work means that I can't publicly reveal most projects/clients, but am happy to speak about this in private.
 
 Please contact me for rates, and do note that the minimum fee is ¥10,000 for all work commissioned. 
 
-**Travel consulting and tour guiding
+#### Travel consulting and tour guiding
 
 I consult privately and at [Japan Travel Consulting](https://japantravelconsulting.com/frequently-asked-questions/). Basically, I do a lot of the heavy lifting when it comes to helping you plan your trip to Japan by answering your questions about where to go, what to do, what to eat, cultural questions, travel logistics, and so on. Instead of spending a week sifting through thousands of articles on Japan, you can just talk to me for an hour or two!
 
