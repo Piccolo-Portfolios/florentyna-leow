@@ -8,7 +8,7 @@ title: About
 ![](/assets/images/flory-leow.jpg)
 _Photo by Rebecka Wolfe_
 
-([日本語版はこちろへ](https://furochan.wordpress.com/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/)）
+[日本語版はこちろへ](about-jp.html)
 
 Hi! I'm Florentyna Leow, a writer based in Tokyo. (日本語版はこちら) [link]
 
