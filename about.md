@@ -8,7 +8,7 @@ title: About
 ![](/assets/images/flory-leow.jpg)
 _Photo by Rebecka Wolfe_
 
-[日本語版はこちろへ](about-jp.html)
+([日本語版はこちろへ](about-jp.html))
 
 Hi! I'm Florentyna Leow, a writer based in Tokyo. (日本語版はこちら) [link]
 
