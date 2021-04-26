@@ -5,7 +5,7 @@ title: About
 
 #### HELLO THERE! 
 
-![](assets/images/flory-leow.jpg)
+![](https://piccolo-portfolios.github.io/florentyna-leow/assets/images/flory-leow.jpg)
 _Photo by Rebecka Wolfe_
 
 ([日本語版はこちろへ](about-jp.html))
