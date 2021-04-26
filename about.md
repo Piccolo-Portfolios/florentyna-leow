@@ -10,53 +10,31 @@ _Photo by Rebecka Wolfe_
 
 ([日本語版はこちろへ](https://furochan.wordpress.com/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/)）
 
-I’m a writer and photographer based in Tokyo.  
-Things I shoot/write about include food, travel, travel-in-Japan, books, walking, plants, places.  
-From time to time, I wear other hats: travel consultant, tour guide, translator, interpreter, transcriber.  
-After leaving my home country (Malaysia), I spent a few years in London and Kyoto before moving to Tokyo.  
-My newsletter is called [the adventures of furochan](https://furochan.substack.com/).  
-You can find me on Instagram for [food](https://www.instagram.com/furochan_eats/), [doors](https://www.instagram.com/doorwaysofasia/), and [plants](https://www.instagram.com/lovemeleafme/).  
-To say hello, [please click here](https://furochan.wordpress.com/contact-me/).
+Hi! I'm Florentyna Leow, a writer based in Tokyo. (日本語版はこちら) [link]
 
-#### **THE REST OF THE STORY**
+I write articles and create content for a range of clients and publications. While my professional work primarily covers food, travel, and Japan, my interests span pretty much everything from moss and doors to demons and kimono.
 
-**EATING・YOLKPORN**
+I love taking complex subjects and making them clear and engaging for the average, non-expert reader. My preference is for longer pieces that allow me to explore a subject or story with the depth and nuance it deserves. I am fluent in Japanese, which allows me to conduct interviews here without an interpreter.
 
-Let’s be real – I like playing with my food as much as I love eating. I am unashamedly plebeian in my love for breaking egg yolks and jiggling custard.
+Various hats worn include: travel consultant, translator, tour guide, online event producer, interpreter, transcriber, photographer.
 
-Other gustatory loves: tendrils of cream diffusing through inky coffee, the way fresh croissants flake and shatter when you first bite into them, how soup curry hugs your stomach, the pillowy give and sigh of mochi filled with miso-spiked white bean paste.
+My newsletter is called [the adventures of furochan](http://furochan.substack.com). 
 
-I’ve been writing (sporadically) about food in a personal and professional capacity for some years now.
+I'm always looking out for new opportunities and collaborations. Some dream projects include writing books and hosting a food/travel show. (_*manifest*_)
 
-**BOOKS**
+For ways you can work with me, see [this page](+link to services page). 
 
-At any given time I am reading a book or five, and annotating memorable pages on [IG Stories](https://www.instagram.com/furochan_eats/).
+I'm not great at email, but I read it all and you can try here: eatwithfurochan AT gmail DOT com
 
-All genres are fair game. I love essays, memoirs, fiction, and words on food, travel, moss, rain, science, trees, writing. Books are my lifeline into the world outside of Japan, which can feel a little like its own world at times (the Galapagos comparison really is apt).
+##A BIT OF BACKGROUND
 
-With books, there’s always the nagging sensation of more out there, of never reading broadly or deeply enough. Still – one can try. Recommendations are always welcome.
+After leaving my home country (Malaysia) in 2010, I spent several years in London and Kyoto before moving to Tokyo. My academic background is in Japanese language and art history, with a dose of Japanese literature and cinema. I began my career in retail and moved on to sales, travel planning, and tour guiding. I have been self-employed since 2018, predominantly writing but also juggling a number of different roles at any given time.
 
-This space may see a reading list one day.
+I write extensively about Japan, mostly because I am based here and it's an inextricable part of my personal and professional life. ([You can read more about that here](https://withoutapath.com/flory-leow/).) However, my interests aren't geographically confined to where I am: I am generally a curious and omnivorous reader, and am partial to writing on food, nature, and sustainable travel, memoirs, personal essays, and well-crafted fantasy novels.
 
-**DOORS**
+In a past life, I led walking tours around west Japan----primarily Kyoto, Hiroshima, and Kanazawa----for Walk Japan, one of the country's best walking tour providers. I have also walked and hiked around Japan with them: the Izu peninsula, parts of the Kyushu Olle, the Nakasendo Way, Basho's Narrow Road to the North, the Shiretoko peninsula, Hokkaido's national parks. Someday I'd love to walk along the Michinoku Coastal Walking Trail and visit the forests of Yakushima.
 
-[Doorways of Asia](https://www.instagram.com/doorwaysofasia/) is my photography project consisting mainly of doors in Japan.
+I am also a keen, if relatively new, road cyclist. Some places I've cycled----most often with my favourite person [link(website)]----include parts of Wakayama, Fukushima, Kyoto, Shimanami Kaido, Tobishima Kaido, Iya Valley, and Tokushima. (Please feel free to commission pieces on cycling!) I also love snowshoeing when it's too cold to comfortably ride around on two wheels.
 
-Door photos are not particularly new or novel, but doors are nonetheless fascinating. To me, they feel like liminal spaces, hovering at the threshold of the external and internal, delineating boundaries. They represent choices and possibilities. Each one has its own story. Metaphorical musings aside, doors are also infinitely variable in shape, size, and style, and are thus endlessly charming. In Japan, particularly, a delightfully vast range of door-related paraphernalia includes all kinds of noren curtains, ornately woven rice-straw New Year wreaths, colorful potted aloes, little purifying saucers of salt, and more.
+In my spare time I read, say hello to every single dog I meet, tend to my balcony herb garden, play the ukulele and listen to an eclectic mix of music from Debussy to Cardi B (much to the dismay of my poor neighbours).
 
-In the spirit of door-related wordplay and Japan in-jokes, you can find my photographs of noren curtains on Instagram at #norennolife buried in a photo feed of a random celebrity called Ren.
-
-**LOVE ME, LEAF ME**
-
-It began with moss-covered temples in Kyoto and burgeoned into a deep, quiet love for all manner of plants – whether in forests, mountains, or city sidewalks. I especially love staring at the undersides of leaves when the sunlight shines through, throwing into relief the minute, delicate tracery of these leaf veins. These days I often spend hours photographing plants in gardens, greenhouses, forests, and urban spaces.
-
-**WORDPLAY**
-
-I make awful puns, all the time.
-
-**THINGS I USE**
-
-・iPhone 7. I take 90% of my shots with this. It’s fast, discreet, and does the job.  
-・Fujifilm XT2 for more cinematic shooting and portraiture. I love this camera.  
-・Fujifilm 35mm/F1.4 as my main lens.  
-・Sony NEX-6 for the very rare video occasion, such as [this](https://www.youtube.com/watch?v=fF2X7lU-YUI).
